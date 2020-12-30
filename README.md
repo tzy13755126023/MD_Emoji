@@ -1,6 +1,8 @@
 # markdown-emoji
 Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
 
+Emoji Cheat Sheet全列表参见：[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 -----------------
 
 - [人物](#人物)
