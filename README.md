@@ -1,7 +1,3 @@
-[![](https://img.shields.io/github/issues/tzy13755126023/MD_Emoji.svg)](https://github.com/tzy13755126023/MD_Emoji/issues)
-[![](https://img.shields.io/github/forks/tzy13755126023/MD_Emoji.svg)](https://github.com/tzy13755126023/MD_Emoji/network) 
-[![](https://img.shields.io/github/stars/tzy13755126023/MD_Emoji.svg)](https://github.com/tzy13755126023/MD_Emoji/stargazers)
-
 # markdown-emoji
 Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
 
