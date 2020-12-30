@@ -60,7 +60,6 @@ Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 | :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
 | :baby: `:baby:` | :older_woman: `:older_woman:` | :older_man: `:older_man:` |
-
 | :construction_worker: `:construction_worker:` | :cop: `:cop:` | :angel: `:angel:` |
 | :princess: `:princess:` | :smiley_cat: `:smiley_cat:` | :smile_cat: `:smile_cat:` |
 | :heart_eyes_cat: `:heart_eyes_cat:` | :kissing_cat: `:kissing_cat:` | :smirk_cat: `:smirk_cat:` |
